@@ -4,6 +4,11 @@ public class Store {
         System.out.println("gucci");
         System.out.println("LV");
 
-       
+        System.out.println("extra lines");
+        // shopping
+
+        System.out.println("**************");
+
+
     }
 }
